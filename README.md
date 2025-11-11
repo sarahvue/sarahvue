@@ -7,7 +7,7 @@
 <p>Make sure to view my website aside from my github profile! (Located in my bio)</p>
 
 
-<h2 align="left">Current Life ,Projects, and Goals...Anything and All Random Things 📝 </h2>
+<h2 align="left">Current Life, Projects, and Goals...Anything and All Random Things 📝 </h2>
 
 ###
 
