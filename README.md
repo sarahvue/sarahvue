@@ -12,7 +12,7 @@
 ###
 
 <ul>
-  <li>I am redesigning a website for a company I worked part time for as a personal project. (I am simply wanting to better the UX, interface, and challenge myself with using more React.js)</li><li>A goal of mine is to learn more about mobile app development and eventually get a personal project going!</li><li>I work in analytics right now where I have utilized manual QA, Python, XML/HTML/CSS in survey prgoramming.</li><li>I'd like to be able to run a mile in under 7mins. I haven't been able to do this since secondary school!</li><li>You can find me in nature with my two mini aussies.</li><li>I play the ukulele.</li>
+  <li>I am redesigning a website for a company I worked part time for as a personal project. (I am simply wanting to better the UX, interface, and challenge myself with using more React.js)</li><li>A goal of mine is to learn more about mobile app development and eventually get a personal project going!</li><li>I work in analytics right now where my a major accomplishment of mine has been developing a manual QA system that has reduced changelog requests.</li><li>I'd like to be able to run a mile in under 7mins. I haven't been able to do this since secondary school!</li><li>You can find me in nature with my two mini aussies.</li><li>I play the ukulele.</li>
 </ul>
 
 ###
