@@ -2,10 +2,10 @@
 
 ###
 
-<p align="left">Helllur 🤓! I’m Sarah! I’m a developer, designer, and analyst in the professional world: a mix of logic, creativity, and curiosity all rolled into one. Ever since primary school, I’ve loved math and science. According to my parents, aunts, and uncles, I was the kid who’d actually cry if I didn’t get my multiplication problem fast enough — then ask for another one just to make it right. I have worked in multiple industries but find myself enjoying the hospitality world (restaurants, travel, events, etc!)
+<p align="left">Helllur 🤓! I’m Sarah! I’m a developer, designer, and analyst in the professional world: a mix of logic, creativity, and curiosity all rolled into one. Ever since primary school, I’ve loved math and science. According to my parents, aunts, and uncles, I was the kid who’d actually cry if I didn’t get my multiplication problem fast enough, then ask for another one just to make it right. I have worked in multiple industries but find myself enjoying the hospitality world (restaurants, travel, events, etc!)
 </p>
 <p>Make sure to view my website aside from my github profile! (Located in my bio)</p>
-###
+
 
 <h2 align="left">Current Life ,Projects, and Goals...Anything and All Random Things 📝 </h2>
 
