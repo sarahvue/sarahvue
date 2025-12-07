@@ -4,7 +4,7 @@
 
 <p align="left">Helllur 🤓! I’m Sarah! I’m a developer, designer, and analyst in the professional world: a mix of logic, creativity, and curiosity all rolled into one. Ever since primary school, I’ve loved math and science. According to my parents, aunts, and uncles, I was the kid who’d actually cry if I didn’t get my multiplication problem fast enough, then ask for another one just to make it right.
 </p>
-<p>Make sure to view my <a href="https://smvspace.netlify.app/">website</a> aside from my github profile! (Located in my bio as well).</p>
+<p style="color: #5b2f8d; font-weight:bold;">Make sure to view my <a href="https://smvspace.netlify.app/">website</a> aside from my github profile! (Located in my bio as well).</p>
 
 
 <h2 align="left">Current Life, Projects, and Goals...Anything and All Random Things 📝 </h2>
