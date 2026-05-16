@@ -12,7 +12,7 @@
 ###
 
 <ul>
-  li>A goal of mine is to learn more about mobile app development and eventually get a personal project going!</li><li>I work in analytics right now where a major accomplishment of mine has been developing a QA system for the team!</li><li>I'd like to be able to run a mile in under 7mins. I haven't been able to do this since secondary school!</li><li>You can find me in nature with my two mini aussies.</li><li>I play the ukulele.</li>
+  <li>A goal of mine is to learn more about mobile app development and eventually get a personal project going!</li><li>I work in analytics right now where a major accomplishment of mine has been developing a QA system for the team!</li><li>I'd like to be able to run a mile in under 7mins. I haven't been able to do this since secondary school!</li><li>You can find me in nature with my two mini aussies.</li><li>I play the ukulele.</li>
 </ul>
 
 ###
